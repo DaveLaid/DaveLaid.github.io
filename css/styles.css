@@ -6,8 +6,8 @@
     font-family: Tahoma, "Geneva", sans-serif;
 }
 
-header {
-	padding-top: 50px;
+.header {
+	padding-top: 20px;
 	padding-bottom: 10px;
 	text-align: center;
 }
@@ -102,4 +102,23 @@ pre {
 	/*display: flex;
 	align-items: center;
 	justify-content: center;*/
+}
+
+
+.footer {
+	background-color: #f7d385;
+	margin-top: 20px;
+	width: 100%;
+	height: 70px;
+	position: fixed;
+	bottom: 0;
+	text-align: center!important;
+}
+
+.social_links {
+	margin: 0 auto;
+}
+
+.social_links.img-rounded {
+
 }
